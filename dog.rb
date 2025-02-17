@@ -6,3 +6,5 @@ end
 hello {
     puts "abc"
 }
+
+p "edfge"
