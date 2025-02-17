@@ -6,5 +6,3 @@ end
 hello {
     puts "abc"
 }
-
-p "efdc"
