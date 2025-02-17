@@ -7,4 +7,5 @@ hello {
     puts "abc"
 }
 
-p "edfge"
+
+p "abcd"
